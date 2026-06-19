@@ -131,16 +131,7 @@ weakness is not scientific knowledge; it is implementation. Older buildings, his
 urban areas, and remote islands are difficult to upgrade. Earthquakes should remain the top geologic priority because 
 they can trigger other hazards and because a major event near Athens, Thessaloniki, Crete, or a major island would 
 create national-scale consequences.
-Website facts to highlight
-
-
-
-
-Greece is one of the most seismically active countries in Europe.
-USGS: 2020 Samos earthquake was M7.0, offshore, normal faulting, around 21 km deep.
-World Bank/GFDRR: earthquakes are Greece’s most severe modeled disaster risk, even though floods occur more 
-often.
-NOA/HUSN: Greece has near-real-time monitoring from more than 150 seismic stations.
+
 Section 3 - Tsunamis
 Tsunamis are less frequent than earthquakes or wildfires, but they matter greatly in Greece because so much of the 
 population and economy is coastal. UNESCO-IOC reports that approximately 85% of Greece’s population is coastal, and 
